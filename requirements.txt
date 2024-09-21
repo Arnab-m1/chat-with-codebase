@@ -1,0 +1,10 @@
+
+# $ conda create --name <env> --file <this file>
+# platform: osx-arm64
+langchain
+deeplake
+streamlit
+python-dotenv
+openai
+sentence_transformers
+langchain-community
